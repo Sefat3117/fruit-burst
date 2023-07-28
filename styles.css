@@ -1,0 +1,13 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+/* Mobile Device */
+@media screen and (max-width:576px){
+    .card{
+        margin-top: 3%;
+        margin-left: 13%;
+    }
+    .deal-of-the-day{
+        flex-direction: column;
+    }
+}
